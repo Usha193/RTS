@@ -1,12 +1,5 @@
 # 🧊 Volumetric Quantifications and Dynamics of Retrogressive Thaw Slumping (RTS)
 
-**Companion repository for:**  
-> **Dai, C. et al. (2025)**  
-> *Volumetric quantifications and dynamics of areas undergoing retrogressive thaw slumping in the Northern Hemisphere*  
-> *Nature Communications*, 16, Article 62017  
-> DOI: [10.1038/s41467-025-62017-0](https://www.nature.com/articles/s41467-025-62017-0)
-
----
 
 ## 🧭 Overview
 This repository supports the first **Northern-Hemisphere-scale volumetric quantification** of active *Retrogressive Thaw Slumping (RTS)* using **ArcticDEM** time-series data (2012–2022).  
@@ -61,3 +54,10 @@ This study fills a long-standing data gap by quantifying **RTS volumetrics, lati
 Area > 2 000 m²  
 ≥ 1 high-confidence pixel  
 σ(time of change) > 1 year
+
+
+
+**Companion repository for:**  
+> **Dai, C. et al. (2025)**  
+> *Volumetric quantifications and dynamics of areas undergoing retrogressive thaw slumping in the Northern Hemisphere*  
+> *Nature Communications*, 16, Article 62017
